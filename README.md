@@ -1,4 +1,4 @@
-### Hi there 👋 Im still learning and loving what im learning.
+### Hi there 👋 My name is Alan Young. I'm currently learning java and enjoying every minute of it.
 
 <!--
 **alanyoung2010/alanyoung2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
